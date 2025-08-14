@@ -60,6 +60,7 @@ h2 > span {
 }
 .snowf {
   overflow: hidden;
+  position: relative;
 }
 .rain {
   overflow: hidden;
