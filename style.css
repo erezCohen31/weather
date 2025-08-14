@@ -64,6 +64,7 @@ h2 > span {
 }
 .rain {
   overflow: hidden;
+  position: relative;
 }
 .snoww {
   position: absolute;
